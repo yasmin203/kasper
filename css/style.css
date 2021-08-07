@@ -318,6 +318,7 @@ nav .toggle-menu{
     flex-direction: column;
     color: rgb(0, 0, 0);
     position: relative;
+
 }
 .services-content h2{
     flex-basis: 25%;
@@ -1112,10 +1113,10 @@ form input[type="submit"]{
     } 
     #contact-form{
         right: 0%;
-        bottom: -230px;
+        bottom: -250px;
         margin: 220px 0;
-        padding: 10px 5px;
-        font-size: 12px;
+        padding: 10px 8px;
+        font-size: 10px;
       
     
     }
